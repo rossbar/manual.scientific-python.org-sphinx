@@ -12,7 +12,7 @@ contributors/index
 community/index
 ```
 
-```{panels}
+````{panels}
 :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-2
 
 For Users
@@ -27,10 +27,18 @@ For Contributors
 
 How-tos and best-practices for contributing to the ecosystem
 
++++
+
+```{link-button} contributors/index
+:type: ref
+:text: Contributor manual
+:classes: btn-outline-primary btn-block stretched-link
+```
+
 ---
 
 Community
 ^^^^^^^^^
 
 Building, coordinating, and sustaining healthy communities
-```
+````
